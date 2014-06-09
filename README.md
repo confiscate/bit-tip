@@ -1,7 +1,7 @@
 bit-tip
 =======
 
-## Note: code is Horribly copy/pasted. Intended to be a one-off UX mock only!
+#### Note: code is Horribly copy/pasted. Intended to be a one-off UX mock only!
 
 UX mock for a tipping feature idea, using Bitcoins as a micro-transaction platform.
 
